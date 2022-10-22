@@ -1,8 +1,8 @@
 import React from 'react'
 import { HashRouter, useRoutes } from 'react-router-dom'
 import routes from './routes'
-import Footer from 'components/Footer'
-import Heade from 'components/Heade'
+import Footer from '@/components/Footer'
+import Heade from '@/components/Heade'
 
 const Element: React.FC = () => {
   const element = useRoutes(routes)

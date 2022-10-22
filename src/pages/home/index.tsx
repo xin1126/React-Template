@@ -1,6 +1,6 @@
-import logo from '../../assets/logo.svg'
+import logo from '@/assets/logo.svg'
 
-const Home = () => {
+const Home: React.FC = () => {
   return (
     <div className="flex flex-col items-center text-5xl">
       <p>首頁</p>
