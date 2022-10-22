@@ -6,6 +6,9 @@
       "DOM.Iterable",
       "ESNext"
     ],
+    "paths": {
+      "@/*": ["./src/*"]
+    },
     "allowJs": true,
     "checkJs": true,
     "skipLibCheck": false,
@@ -22,7 +25,7 @@
       "vite/client"
     ],
     "jsx": "react-jsx",
-    "baseUrl": "./src"
+    "baseUrl": "./"
   },
   "include": [
     "./src"
