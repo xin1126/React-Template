@@ -1,4 +1,4 @@
-import { ReactNode, useState, useEffect } from 'react'
+import { ReactNode } from 'react'
 interface Props {
   color: string
   children: ReactNode

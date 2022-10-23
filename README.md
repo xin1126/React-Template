@@ -7,3 +7,4 @@
 - TailwindCSS
 - Redux Toolkit 
 - ESlint
+- unplugin-auto-import

@@ -28,6 +28,7 @@
     "baseUrl": "./"
   },
   "include": [
+    "auto-imports.d.ts",
     "./src"
   ],
   "references": [

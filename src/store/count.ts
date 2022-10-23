@@ -5,7 +5,7 @@ const initialState = {
 }
 
 const count = createSlice({
-  name: 'todos',
+  name: 'count',
   initialState,
   reducers: {
     addCount: (state) => {

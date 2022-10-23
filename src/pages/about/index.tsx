@@ -1,4 +1,3 @@
-import { useSelector } from 'react-redux'
 import AddCount from './components/AddCount'
 import ReduceCount from './components/ReduceCount'
 
